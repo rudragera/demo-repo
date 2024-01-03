@@ -1,3 +1,3 @@
 # DEMO
 
-Learning to use github
+Learning to use github.
